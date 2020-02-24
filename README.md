@@ -24,13 +24,19 @@ Complete Python Bootcamp: Go from zero to hero in Python 3
 - [x] Coding Exercise 1: Numbers: Simple Arithmetic
     - Section3/11.py
 - [x] Numbers - FAQ
-- [ ] Quiz 1: Number Quiz
-- [ ] Variable Assignments
-- [ ] Introduction to Strings
-- [ ] Coding Exercise 2: Quick Print Check
-- [ ] Indexing and Slicing with Strings
-- [ ] Coding Exercise 3: String Indexing
-- [ ] Coding Exercise 4: String Slicing
+- [x] Quiz 1: Number Quiz
+- [x] Variable Assignments
+    - Section3/13.py
+- [x] Introduction to Strings
+    - Section3/14.py
+- [x] Coding Exercise 2: Quick Print Check
+    - Section3/14.py
+- [x] Indexing and Slicing with Strings
+    - Section3/15.py
+- [x] Coding Exercise 3: String Indexing
+    - Section3/15.py
+- [x] Coding Exercise 4: String Slicing
+    - Section3/15.py
 - [ ] String Properties and Methods
 - [ ] Strings FAQ
 - [ ] Quiz 2: Strings Quiz
