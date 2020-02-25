@@ -37,16 +37,19 @@ Complete Python Bootcamp: Go from zero to hero in Python 3
     - Section3/15.py
 - [x] Coding Exercise 4: String Slicing
     - Section3/15.py
-- [ ] String Properties and Methods
-- [ ] Strings FAQ
-- [ ] Quiz 2: Strings Quiz
-- [ ] Print Formatting with Strings
-- [ ] Print Formatting FAQs
-- [ ] Coding Exercise 5: Print Formatting
-- [ ] List in Python
-- [ ] Coding Exercise 6: Lists
-- [ ] Lists FAQ
-- [ ] Quiz 3: List Quiz
+- [x] String Properties and Methods
+    - Section3/16.py
+- [x] Strings FAQ
+- [x] Quiz 2: Strings Quiz
+- [x] Print Formatting with Strings
+    - Section3/18.py
+- [x] Print Formatting FAQs
+- [x] Coding Exercise 5: Print Formatting
+- [x] List in Python
+    - Section3/20.py
+- [x] Coding Exercise 6: Lists
+- [x] Lists FAQ
+- [x] Quiz 3: List Quiz
 - [ ] Dictionaries in Python
 - [ ] Coding Exercise 7: Dictionaries
 - [ ] Dictionaries FAQ
