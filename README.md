@@ -50,16 +50,20 @@ Complete Python Bootcamp: Go from zero to hero in Python 3
 - [x] Coding Exercise 6: Lists
 - [x] Lists FAQ
 - [x] Quiz 3: List Quiz
-- [ ] Dictionaries in Python
-- [ ] Coding Exercise 7: Dictionaries
-- [ ] Dictionaries FAQ
-- [ ] Quiz 4: Dictionaries Quiz
-- [ ] Tuples with Python
-- [ ] Quiz 5: Tuples Quiz
-- [ ] Sets in Python
-- [ ] Coding Exercies 8: Sets
-- [ ] Booleans in Python
-- [ ] Quiz 6: Sets and Booleans Quiz
+- [x] Dictionaries in Python
+    - Section3/22.py
+- [x] Coding Exercise 7: Dictionaries
+- [x] Dictionaries FAQ
+- [x] Quiz 4: Dictionaries Quiz
+- [x] Tuples with Python
+    - Section3/24.py
+- [x] Quiz 5: Tuples Quiz
+- [x] Sets in Python
+    - Section3/25.py
+- [x] Coding Exercies 8: Sets
+- [x] Booleans in Python
+    - Section3/26.py
+- [x] Quiz 6: Sets and Booleans Quiz
 - [ ] I/O With Basic Files in Python
 - [ ] Coding Exercise 9: File I/O
 - [ ] Resources for More Basic Practice
