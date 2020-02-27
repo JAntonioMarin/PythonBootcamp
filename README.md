@@ -64,8 +64,26 @@ Complete Python Bootcamp: Go from zero to hero in Python 3
 - [x] Booleans in Python
     - Section3/26.py
 - [x] Quiz 6: Sets and Booleans Quiz
-- [ ] I/O With Basic Files in Python
-- [ ] Coding Exercise 9: File I/O
-- [ ] Resources for More Basic Practice
-- [ ] Python Objects and Data Structures Assessment Test Overview
-- [ ] Python Objects and Data Structures Assessment Test Solutions.
+- [x] I/O With Basic Files in Python
+    - Section3/27.py
+    - Section3/myfile.txt
+- [x] Coding Exercise 9: File I/O
+- [x] Resources for More Basic Practice
+- [x] Python Objects and Data Structures Assessment Test Overview
+- [x] Python Objects and Data Structures Assessment Test Solutions.
+
+### Section 4: Python Comparison Operators
+
+- [ ] Comparison Operators in Python
+- [ ] Chaining Comparison Operators in Python with Logical Operators
+- [ ] Quiz 7: Comparison Operators Quiz
+
+### Section 5: Python Statements
+
+- [ ] If, Elif and Else Statements in Python
+- [ ] For Loops in Python
+- [ ] While Loops in Python
+- [ ] Useful Operator in Python
+- [ ] List Comprehensions in Python
+- [ ] Python Statements Test Overview
+- [ ] Python Statements Test Solutions
