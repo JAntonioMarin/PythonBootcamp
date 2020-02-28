@@ -74,16 +74,35 @@ Complete Python Bootcamp: Go from zero to hero in Python 3
 
 ### Section 4: Python Comparison Operators
 
-- [ ] Comparison Operators in Python
-- [ ] Chaining Comparison Operators in Python with Logical Operators
-- [ ] Quiz 7: Comparison Operators Quiz
+- [x] Comparison Operators in Python
+    - Section4/31.py
+- [x] Chaining Comparison Operators in Python with Logical Operators
+    - Section4/32.py
+- [x] Quiz 7: Comparison Operators Quiz
 
 ### Section 5: Python Statements
 
-- [ ] If, Elif and Else Statements in Python
-- [ ] For Loops in Python
+- [x] If, Elif and Else Statements in Python
+    - Section5/33.py
+- [x] For Loops in Python
+    - Section5/34.py
 - [ ] While Loops in Python
 - [ ] Useful Operator in Python
 - [ ] List Comprehensions in Python
 - [ ] Python Statements Test Overview
 - [ ] Python Statements Test Solutions
+
+### Section 6: 
+
+- [ ] Methods and the Python Documentation
+- [ ] Functions in Python
+- [ ] Overview of Quic Exercises #1-10
+- [ ] Coding Exercise 10: Functions 1: Print Hello World
+- [ ] Coding Exercise 11: Functions 2: Print Hello Name
+- [ ] Coding Exercise 12: Functions 3: simple Boolean
+- [ ] Coding Exercise 13: Functions 4: using Booleans
+- [ ] Coding Exercise 14: Functions 5: simple math
+- [ ] Coding Exercise 15: Functions 6: is even
+- [ ] Coding Exercise 16: Functions 7: is greater
+
+Continue...
