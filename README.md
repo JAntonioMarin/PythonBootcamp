@@ -86,11 +86,14 @@ Complete Python Bootcamp: Go from zero to hero in Python 3
     - Section5/33.py
 - [x] For Loops in Python
     - Section5/34.py
-- [ ] While Loops in Python
-- [ ] Useful Operator in Python
-- [ ] List Comprehensions in Python
-- [ ] Python Statements Test Overview
-- [ ] Python Statements Test Solutions
+- [x] While Loops in Python
+    - Section5/35.py
+- [x] Useful Operator in Python
+    - Section5/36.py
+- [x] List Comprehensions in Python
+    - Section5/37.py
+- [x] Python Statements Test Overview
+- [x] Python Statements Test Solutions
 
 ### Section 6: 
 
