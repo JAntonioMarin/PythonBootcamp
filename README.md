@@ -95,17 +95,48 @@ Complete Python Bootcamp: Go from zero to hero in Python 3
 - [x] Python Statements Test Overview
 - [x] Python Statements Test Solutions
 
-### Section 6: 
+### Section 6: Methods and Functions
 
-- [ ] Methods and the Python Documentation
-- [ ] Functions in Python
-- [ ] Overview of Quic Exercises #1-10
-- [ ] Coding Exercise 10: Functions 1: Print Hello World
-- [ ] Coding Exercise 11: Functions 2: Print Hello Name
-- [ ] Coding Exercise 12: Functions 3: simple Boolean
-- [ ] Coding Exercise 13: Functions 4: using Booleans
-- [ ] Coding Exercise 14: Functions 5: simple math
-- [ ] Coding Exercise 15: Functions 6: is even
-- [ ] Coding Exercise 16: Functions 7: is greater
+- [x] Methods and the Python Documentation
+    - Section6/40.py
+- [x] Functions in Python
+    - Section6/41.py
+- [x] Overview of Quic Exercises #1-10
+- [x] Coding Exercise 10: Functions 1: Print Hello World
+    - Section6/ex10.py
+- [x] Coding Exercise 11: Functions 2: Print Hello Name
+    - Section6/ex11.py
+- [x] Coding Exercise 12: Functions 3: simple Boolean
+    - Section6/ex12.py
+- [x] Coding Exercise 13: Functions 4: using Booleans
+    - Section6/ex13.py
+- [x] Coding Exercise 14: Functions 5: simple math
+    - Section6/ex14.py
+- [x] Coding Exercise 15: Functions 6: is even
+    - Section6/ex15.py
+- [x] Coding Exercise 16: Functions 7: is greater
+    - Section6/ex16.py
+- [ ] *args and **kwargs in Python
+- [ ] Coding Exercise 17: Functions 8: *args
+- [ ] Coding Exercise 18: Functions 9: pick evens
+- [ ] Coding Exercise 19: Functions 10: skyline
+- [ ] Function Practice Exercises - Overview
+- [ ] Function Practice Exercises - Solutions
+- [ ] Function Practice -Solutions Level One
+- [ ] Function Practice -Solutions Level Two
+- [ ] Function Exercise Solutions Challenge Problem
+- [ ] Lambda Expressions, Map and Filter Functions
+- [ ] Nested Statements and Scope
+- [ ] Functions and Methods - Homework Assignment
+- [ ] Hints and Tips for Functions
+- [ ] Functions and Methods Homework - Solutions
+
+### Section 7: Milestone Project - 1
+
+- [ ] First Python Milestone Project
+- [ ] Milestone Project Help
+- [ ] Solution Overview for MileStone Protect 1 - Part One
+- [ ] Solution Overview for MileStone Protect 1 - Part Two
+- [ ] Advance Project Solutions Overview
 
 Continue...
