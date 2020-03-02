@@ -116,10 +116,14 @@ Complete Python Bootcamp: Go from zero to hero in Python 3
     - Section6/ex15.py
 - [x] Coding Exercise 16: Functions 7: is greater
     - Section6/ex16.py
-- [ ] *args and **kwargs in Python
-- [ ] Coding Exercise 17: Functions 8: *args
-- [ ] Coding Exercise 18: Functions 9: pick evens
-- [ ] Coding Exercise 19: Functions 10: skyline
+- [x] *args and **kwargs in Python
+    - Section6/43.py
+- [x] Coding Exercise 17: Functions 8: *args
+    - Section6/ex17.py
+- [x] Coding Exercise 18: Functions 9: pick evens
+    - Section6/ex18.py
+- [x] Coding Exercise 19: Functions 10: skyline
+    - Section6/ex19.py
 - [ ] Function Practice Exercises - Overview
 - [ ] Function Practice Exercises - Solutions
 - [ ] Function Practice -Solutions Level One
