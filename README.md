@@ -124,11 +124,15 @@ Complete Python Bootcamp: Go from zero to hero in Python 3
     - Section6/ex18.py
 - [x] Coding Exercise 19: Functions 10: skyline
     - Section6/ex19.py
-- [ ] Function Practice Exercises - Overview
-- [ ] Function Practice Exercises - Solutions
-- [ ] Function Practice -Solutions Level One
-- [ ] Function Practice -Solutions Level Two
-- [ ] Function Exercise Solutions Challenge Problem
+- [x] Function Practice Exercises - Overview
+- [x] Function Practice Exercises - Solutions
+    - Section6/45.py
+- [x] Function Practice -Solutions Level One
+    - Section6/46.py
+- [x] Function Practice -Solutions Level Two
+    - Section6/47.py
+- [x] Function Exercise Solutions Challenge Problem
+    - Section6/48.py
 - [ ] Lambda Expressions, Map and Filter Functions
 - [ ] Nested Statements and Scope
 - [ ] Functions and Methods - Homework Assignment
