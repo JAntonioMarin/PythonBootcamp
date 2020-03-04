@@ -133,11 +133,14 @@ Complete Python Bootcamp: Go from zero to hero in Python 3
     - Section6/47.py
 - [x] Function Exercise Solutions Challenge Problem
     - Section6/48.py
-- [ ] Lambda Expressions, Map and Filter Functions
-- [ ] Nested Statements and Scope
-- [ ] Functions and Methods - Homework Assignment
-- [ ] Hints and Tips for Functions
-- [ ] Functions and Methods Homework - Solutions
+- [x] Lambda Expressions, Map and Filter Functions
+    - Section6/49.py
+- [x] Nested Statements and Scope
+    - Section6/50.py
+- [x] Functions and Methods - Homework Assignment
+    - Section6/51.py
+- [x] Hints and Tips for Functions
+- [x] Functions and Methods Homework - Solutions
 
 ### Section 7: Milestone Project - 1
 
