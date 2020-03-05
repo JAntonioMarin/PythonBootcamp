@@ -144,10 +144,24 @@ Complete Python Bootcamp: Go from zero to hero in Python 3
 
 ### Section 7: Milestone Project - 1
 
-- [ ] First Python Milestone Project
-- [ ] Milestone Project Help
-- [ ] Solution Overview for MileStone Protect 1 - Part One
-- [ ] Solution Overview for MileStone Protect 1 - Part Two
-- [ ] Advance Project Solutions Overview
+- [x] First Python Milestone Project
+    - Section7/tic_tac_toe.py
+- [x] Milestone Project Help
+- [x] Solution Overview for MileStone Protect 1 - Part One
+- [x] Solution Overview for MileStone Protect 1 - Part Two
+- [x] Advance Project Solutions Overview
+    - Section7/tic_tac_toe_refactor.py
+
+### Section 8: Object Oriented Programming
+
+- [ ] Object Oriented Programming - Introduction
+- [ ] Object Oriented Programming - Attributes and Class Keyword
+- [ ] Object Oriented Programming - Class Object Attributes and Methods
+- [ ] Object Oriented Programming - Inheritance and Polymorphism
+- [ ] Object Oriented Programming - Special (Magic/dunder) Methods
+- [ ] Object Oriented Programming - Homework
+- [ ] Object Oriented Programming - Homework solutions
+- [ ] Object Oriented Programming - Challenge Overview
+- [ ] Object Oriented Programming - Challenge Solutions
 
 Continue...
