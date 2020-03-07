@@ -154,8 +154,9 @@ Complete Python Bootcamp: Go from zero to hero in Python 3
 
 ### Section 8: Object Oriented Programming
 
-- [ ] Object Oriented Programming - Introduction
-- [ ] Object Oriented Programming - Attributes and Class Keyword
+- [x] Object Oriented Programming - Introduction
+- [x] Object Oriented Programming - Attributes and Class Keyword
+    - Section8/60.py
 - [ ] Object Oriented Programming - Class Object Attributes and Methods
 - [ ] Object Oriented Programming - Inheritance and Polymorphism
 - [ ] Object Oriented Programming - Special (Magic/dunder) Methods
@@ -163,5 +164,19 @@ Complete Python Bootcamp: Go from zero to hero in Python 3
 - [ ] Object Oriented Programming - Homework solutions
 - [ ] Object Oriented Programming - Challenge Overview
 - [ ] Object Oriented Programming - Challenge Solutions
+
+### Section 9: Modules and Packages
+
+- [ ] Pip Install and PyPi
+- [ ] Modules and Packages
+- [ ] __name__ and "__main__"
+
+### Section 10: Errors and Exceptions Handling
+
+- [ ] Errors and Exception Handling
+- [ ] Errors and Exception Homework
+- [ ] Errors and Exception Homework - Solutions
+- [ ] Pylint Overview
+- [ ] Running test with the Unittest Library
 
 Continue...
