@@ -157,13 +157,19 @@ Complete Python Bootcamp: Go from zero to hero in Python 3
 - [x] Object Oriented Programming - Introduction
 - [x] Object Oriented Programming - Attributes and Class Keyword
     - Section8/60.py
-- [ ] Object Oriented Programming - Class Object Attributes and Methods
-- [ ] Object Oriented Programming - Inheritance and Polymorphism
-- [ ] Object Oriented Programming - Special (Magic/dunder) Methods
-- [ ] Object Oriented Programming - Homework
-- [ ] Object Oriented Programming - Homework solutions
-- [ ] Object Oriented Programming - Challenge Overview
-- [ ] Object Oriented Programming - Challenge Solutions
+- [x] Object Oriented Programming - Class Object Attributes and Methods
+    - Section8/61.py
+- [x] Object Oriented Programming - Inheritance and Polymorphism
+    - Section8/62.py
+- [x] Object Oriented Programming - Special (Magic/dunder) Methods
+    - Section8/63.py
+- [x] Object Oriented Programming - Homework
+    - Section8/64.py
+- [x] Object Oriented Programming - Homework solutions
+    - Section8/65.py
+- [x] Object Oriented Programming - Challenge Overview
+    - Section8/66.py
+- [x] Object Oriented Programming - Challenge Solutions
 
 ### Section 9: Modules and Packages
 
