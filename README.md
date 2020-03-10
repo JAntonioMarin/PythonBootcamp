@@ -173,8 +173,15 @@ Complete Python Bootcamp: Go from zero to hero in Python 3
 
 ### Section 9: Modules and Packages
 
-- [ ] Pip Install and PyPi
-- [ ] Modules and Packages
+- [x] Pip Install and PyPi
+    - Section9/68.py
+- [x] Modules and Packages
+    - Section9/mymodule.py
+    - Section9/myprogram.py
+    - Section9/MyMainPackage/__init__.py
+    - Section9/MyMainPackage/some_main_script.py
+    - Section9/MyMainPackage/SubPackage/__init__.py
+    - Section9/MyMainPackage/SubPackage/my_sub_script.py
 - [ ] __name__ and "__main__"
 
 ### Section 10: Errors and Exceptions Handling
