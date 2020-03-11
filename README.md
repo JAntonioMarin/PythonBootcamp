@@ -182,7 +182,9 @@ Complete Python Bootcamp: Go from zero to hero in Python 3
     - Section9/MyMainPackage/some_main_script.py
     - Section9/MyMainPackage/SubPackage/__init__.py
     - Section9/MyMainPackage/SubPackage/my_sub_script.py
-- [ ] __name__ and "__main__"
+- [x] __name__ and "__main__"
+    - Section9/one.py
+    - Section9/two.py
 
 ### Section 10: Errors and Exceptions Handling
 
@@ -191,5 +193,28 @@ Complete Python Bootcamp: Go from zero to hero in Python 3
 - [ ] Errors and Exception Homework - Solutions
 - [ ] Pylint Overview
 - [ ] Running test with the Unittest Library
+
+### Section 11: Milestone Project - 2
+
+- [ ] Milestone Project 2 Overview
+- [ ] Solution Walkthrough - Card and Deck classes
+- [ ] Solution Walkthrough - Hand and Chip Classes
+- [ ] Solution Walkthrough - Functions for Game Play
+- [ ] Solution Walkthrough - Final Gameplay Script
+
+### Section 12: Python Decorators
+
+- [ ] Decorators with Python Overview
+- [ ] Decorators Homework
+
+### Section 13: Python Generators
+
+- [ ] Generators with Python
+- [ ] Generators Homework Overview
+- [ ] Generators Homework Solutions
+
+### Section 14: Final Capstone Python Project
+
+- [ ] Final Capstone Project
 
 Continue...
