@@ -188,9 +188,12 @@ Complete Python Bootcamp: Go from zero to hero in Python 3
 
 ### Section 10: Errors and Exceptions Handling
 
-- [ ] Errors and Exception Handling
-- [ ] Errors and Exception Homework
-- [ ] Errors and Exception Homework - Solutions
+- [x] Errors and Exception Handling
+    - Section10/71.py
+    - Section10/testfile
+- [x] Errors and Exception Homework
+    - Section10/72.py
+- [x] Errors and Exception Homework - Solutions
 - [ ] Pylint Overview
 - [ ] Running test with the Unittest Library
 
