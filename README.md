@@ -194,8 +194,12 @@ Complete Python Bootcamp: Go from zero to hero in Python 3
 - [x] Errors and Exception Homework
     - Section10/72.py
 - [x] Errors and Exception Homework - Solutions
-- [ ] Pylint Overview
-- [ ] Running test with the Unittest Library
+- [x] Pylint Overview
+    - Section10/73.py
+    - Section10/perfect_73.py
+- [x] Running test with the Unittest Library
+    - Section10/cap.py
+    - Section10/test_cap.py
 
 ### Section 11: Milestone Project - 2
 
