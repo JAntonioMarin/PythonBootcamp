@@ -203,11 +203,11 @@ Complete Python Bootcamp: Go from zero to hero in Python 3
 
 ### Section 11: Milestone Project - 2
 
-- [ ] Milestone Project 2 Overview
-- [ ] Solution Walkthrough - Card and Deck classes
-- [ ] Solution Walkthrough - Hand and Chip Classes
-- [ ] Solution Walkthrough - Functions for Game Play
-- [ ] Solution Walkthrough - Final Gameplay Script
+- [x] Milestone Project 2 Overview
+- [x] Solution Walkthrough - Card and Deck classes
+- [x] Solution Walkthrough - Hand and Chip Classes
+- [x] Solution Walkthrough - Functions for Game Play
+- [x] Solution Walkthrough - Final Gameplay Script
 
 ### Section 12: Python Decorators
 
