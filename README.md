@@ -204,6 +204,7 @@ Complete Python Bootcamp: Go from zero to hero in Python 3
 ### Section 11: Milestone Project - 2
 
 - [x] Milestone Project 2 Overview
+    - Section11/black_jack.py
 - [x] Solution Walkthrough - Card and Deck classes
 - [x] Solution Walkthrough - Hand and Chip Classes
 - [x] Solution Walkthrough - Functions for Game Play
@@ -211,8 +212,10 @@ Complete Python Bootcamp: Go from zero to hero in Python 3
 
 ### Section 12: Python Decorators
 
-- [ ] Decorators with Python Overview
-- [ ] Decorators Homework
+- [x] Decorators with Python Overview
+    -Section12/81.py
+- [x] Decorators Homework
+    -Section12/82.py
 
 ### Section 13: Python Generators
 
