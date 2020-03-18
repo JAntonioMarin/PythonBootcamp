@@ -219,9 +219,11 @@ Complete Python Bootcamp: Go from zero to hero in Python 3
 
 ### Section 13: Python Generators
 
-- [ ] Generators with Python
-- [ ] Generators Homework Overview
-- [ ] Generators Homework Solutions
+- [x] Generators with Python
+    -Section13/83.py
+- [x] Generators Homework Overview
+    -Section13/84.py
+- [x] Generators Homework Solutions
 
 ### Section 14: Final Capstone Python Project
 
