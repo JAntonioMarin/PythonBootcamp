@@ -227,6 +227,46 @@ Complete Python Bootcamp: Go from zero to hero in Python 3
 
 ### Section 14: Final Capstone Python Project
 
-- [ ] Final Capstone Project
+- [x] Final Capstone Project
+    - Section14/86.py
 
-Continue...
+### Section 15: Advanced Python Modules
+
+- [ ] Collections Module - counter
+- [ ] Collections Module - defaultdict
+- [ ] Collections Module - OrderedDict
+- [ ] Collections Module - namedtuple
+- [ ] Datetime
+- [ ] Python Debugger - pdb
+- [ ] Timing your code - timeit
+- [ ] Regular Expressions -re
+- [ ] StringIO
+- [ ] Advanced Python Modules FAQ
+
+### Section 16: Advanced Python Object and Data Structures
+
+- [ ] Advanced Numbers
+- [ ] Advanced Strings
+- [ ] Advanced Sets
+- [ ] Advanced Dictionaries
+- [ ] Advanced Lists
+- [ ] Advanced Python Objects Assessment Test
+- [ ] Advanced Python Objects Test-Solutions
+
+### Section 17: Bonus Material - Introduction to GUIs
+
+- [ ] Introduction to GUIs
+- [ ] Quick note about ipywidgets
+- [ ] Interact Functionality with GUIs
+- [ ] GUI Widget Basics
+- [ ] List of Possible Widgets
+- [ ] Widget Styling and Layouts
+- [ ] Example of what a Widget can do!
+
+### Section 18: Appendix: Older Python 2 Material
+
+This is like this course but in Python 2. I am not interested in unsupported Python 2!
+
+### Section 19: Bonus Section: Thanks you
+
+- [ ] Final.
