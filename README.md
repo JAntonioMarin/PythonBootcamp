@@ -232,10 +232,14 @@ Complete Python Bootcamp: Go from zero to hero in Python 3
 
 ### Section 15: Advanced Python Modules
 
-- [ ] Collections Module - counter
-- [ ] Collections Module - defaultdict
-- [ ] Collections Module - OrderedDict
-- [ ] Collections Module - namedtuple
+- [x] Collections Module - counter
+    -Section15/87.py
+- [x] Collections Module - defaultdict
+    -Section15/88.py
+- [x] Collections Module - OrderedDict
+    -Section15/89.py
+- [x] Collections Module - namedtuple
+    -Section15/90.py
 - [ ] Datetime
 - [ ] Python Debugger - pdb
 - [ ] Timing your code - timeit
