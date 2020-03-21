@@ -240,9 +240,12 @@ Complete Python Bootcamp: Go from zero to hero in Python 3
     -Section15/89.py
 - [x] Collections Module - namedtuple
     -Section15/90.py
-- [ ] Datetime
-- [ ] Python Debugger - pdb
-- [ ] Timing your code - timeit
+- [x] Datetime
+    -Section15/91.py
+- [x] Python Debugger - pdb
+    -Section15/92.py
+- [x] Timing your code - timeit
+    -Section15/93.py
 - [ ] Regular Expressions -re
 - [ ] StringIO
 - [ ] Advanced Python Modules FAQ
