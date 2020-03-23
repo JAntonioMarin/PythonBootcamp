@@ -246,9 +246,11 @@ Complete Python Bootcamp: Go from zero to hero in Python 3
     -Section15/92.py
 - [x] Timing your code - timeit
     -Section15/93.py
-- [ ] Regular Expressions -re
-- [ ] StringIO
-- [ ] Advanced Python Modules FAQ
+- [x] Regular Expressions -re
+    -Section15/94.py
+- [x] StringIO
+    -Section15/95.py
+- [x] Advanced Python Modules FAQ
 
 ### Section 16: Advanced Python Object and Data Structures
 
