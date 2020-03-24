@@ -254,10 +254,14 @@ Complete Python Bootcamp: Go from zero to hero in Python 3
 
 ### Section 16: Advanced Python Object and Data Structures
 
-- [ ] Advanced Numbers
-- [ ] Advanced Strings
-- [ ] Advanced Sets
-- [ ] Advanced Dictionaries
+- [x] Advanced Numbers
+    -Section15/97.py
+- [x] Advanced Strings
+    -Section15/98.py
+- [x] Advanced Sets
+    -Section15/99.py
+- [x] Advanced Dictionaries
+    -Section15/100.py
 - [ ] Advanced Lists
 - [ ] Advanced Python Objects Assessment Test
 - [ ] Advanced Python Objects Test-Solutions
