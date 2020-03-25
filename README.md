@@ -262,14 +262,16 @@ Complete Python Bootcamp: Go from zero to hero in Python 3
     -Section15/99.py
 - [x] Advanced Dictionaries
     -Section15/100.py
-- [ ] Advanced Lists
-- [ ] Advanced Python Objects Assessment Test
-- [ ] Advanced Python Objects Test-Solutions
+- [x] Advanced Lists
+    -Section15/101.py
+- [x] Advanced Python Objects Assessment Test
+    -Section15/102.py
+- [x] Advanced Python Objects Test-Solutions
 
 ### Section 17: Bonus Material - Introduction to GUIs
 
-- [ ] Introduction to GUIs
-- [ ] Quick note about ipywidgets
+- [x] Introduction to GUIs
+- [x] Quick note about ipywidgets
 - [ ] Interact Functionality with GUIs
 - [ ] GUI Widget Basics
 - [ ] List of Possible Widgets
