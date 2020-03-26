@@ -272,7 +272,8 @@ Complete Python Bootcamp: Go from zero to hero in Python 3
 
 - [x] Introduction to GUIs
 - [x] Quick note about ipywidgets
-- [ ] Interact Functionality with GUIs
+- [x] Interact Functionality with GUIs
+    -Section16/106.py
 - [ ] GUI Widget Basics
 - [ ] List of Possible Widgets
 - [ ] Widget Styling and Layouts
