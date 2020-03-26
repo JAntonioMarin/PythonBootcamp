@@ -274,10 +274,13 @@ Complete Python Bootcamp: Go from zero to hero in Python 3
 - [x] Quick note about ipywidgets
 - [x] Interact Functionality with GUIs
     -Section16/106.py
-- [ ] GUI Widget Basics
-- [ ] List of Possible Widgets
-- [ ] Widget Styling and Layouts
-- [ ] Example of what a Widget can do!
+- [x] GUI Widget Basics
+    -Section16/107.py
+- [x] List of Possible Widgets
+    -Section16/108.py
+- [x] Widget Styling and Layouts
+    -Section16/109.py
+- [x] Example of what a Widget can do!
 
 ### Section 18: Appendix: Older Python 2 Material
 
@@ -285,4 +288,4 @@ This is like this course but in Python 2. I am not interested in unsupported Pyt
 
 ### Section 19: Bonus Section: Thanks you
 
-- [ ] Final.
+- [x] Final.
